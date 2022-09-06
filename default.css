@@ -1,0 +1,37 @@
+h1, h2, h3
+{
+	font-family: 'Bitter', serif;
+	color: #14a9a9 ;
+
+	margin-left: 100px;
+	margin-right: 100px;
+    text-align: center;
+}
+
+
+
+body
+ {
+    background-color: #F0F8FF;
+
+    color: #232b2b ;
+    font-family: 'Bitter', serif;
+    text-align: center;
+}
+
+footer
+
+    p {
+font-size: xx-large;
+font: bold;
+   }
+header
+    
+    nav
+{
+    font-size: large;
+}
+nav {
+
+    text-align: center;
+}
